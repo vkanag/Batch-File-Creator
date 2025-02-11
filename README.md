@@ -1,6 +1,6 @@
 # Batch-File-Creator
 This script creates 25 empty files each time it is run. It keeps adding another batch of 25 files with each execution.
-![image](https://github.com/user-attachments/assets/ad5ba4b4-c884-4d35-8500-905de81af06d)
+
 ## Usage
 1. Clone the repository to your local machine.
 2. Set execute permission to the script file.

@@ -8,7 +8,8 @@ This script creates 25 empty files each time it is run. It keeps adding another 
 4. Run the bash script:
    ./create_files.sh param1
    param1 : name of the file
-			3. The script will create 25 empty files in the current directory such as filename1.txt, filename2.txt..filename25.txt
+5. The script will create 25 empty files in the current directory such as filename1.txt, filename2.txt..filename25.txt
+6. In next run, it will create filename26.txt, filename27.txt..filename50.txt and so on in subsequent runs.
 Requirements
 			§ Linux-based OS
 			§ Bash shell

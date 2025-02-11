@@ -13,6 +13,5 @@ Requirements
 			§ Linux-based OS
 			§ Bash shell
 
-CopyEdit
-![image](https://github.com/user-attachments/assets/a424beae-379a-4b62-acf3-7acd93f9f6b2)
+
 
